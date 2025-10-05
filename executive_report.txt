@@ -1,0 +1,37 @@
+
+AMAZON SALES ANALYSIS REPORT
+Generated on: 2025-10-05 13:10:30
+Analysis Period: 2022-03-31 to 2022-06-29
+
+EXECUTIVE SUMMARY:
+- Total Revenue: ₹7,66,92,996.26
+- Total Orders: 1,82,017
+- Average Order Value: ₹598.59
+- Customer Reach: 7292 cities across 48 states
+- Order Success Rate: 85.0%
+
+KEY INSIGHTS:
+1. 🎯 T-Shirt dominates with 50.1% of total revenue
+2. 🗺️ South region contributes 39.4% of sales
+3. 📈 Peak daily revenue reached ₹11,77,204.90
+4. 👥 Business serves 7292 cities nationwide
+5. ✅ Order fulfillment success rate: 85.0%
+6. 📦 115953 units sold across 9 product categories
+
+STRATEGIC RECOMMENDATIONS:
+1. 🎯 **PRODUCT FOCUS**: Double down on 'T-Shirt' category (50.1% of revenue)
+2. 🗺️ **MARKET EXPANSION**: Intensify marketing in South region (39.4% share)
+3. 📦 **INVENTORY OPTIMIZATION**: Monitor stock levels for top-performing sizes
+4. 👥 **CUSTOMER RETENTION**: Implement loyalty program for high-value customers
+5. 📊 **DATA-DRIVEN DECISIONS**: Use insights for seasonal inventory planning
+6. 🚀 **OPERATIONAL EXCELLENCE**: Optimize fulfillment processes for better success rates
+
+PERFORMANCE METRICS:
+• Total Revenue: ₹7,66,92,996.26
+• Total Orders: 1,82,017
+• Average Order Value: ₹598.59
+• Daily Revenue (Avg): ₹8,24,087.87
+• Conversion Rate: 85.0%
+• Cancellation Rate: 4.5%
+• Geographic Coverage: 48 states, 7292 cities
+• Product Diversity: 9 categories
